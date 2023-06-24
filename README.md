@@ -59,3 +59,4 @@ Tambahkan halaman footer di semua halaman mulai dari `Home`, `Student`, `AddStud
 -   Pada `Task.js` masukan url firebase, nama serta CAMP ID kalian dalam bentuk `string`. Pastikan nama serta CAMP ID yang kalian masukan **sesuai** dengan yang kalian simpan pada `Footer.jsx`.
 
 -   Lakukan deployment ke Firebase
+"# finalproject" 
